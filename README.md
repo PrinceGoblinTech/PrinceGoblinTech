@@ -9,7 +9,7 @@
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
-<a href="https://legacy.reactjs.org/docs/"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 
 
 <a href="mailto:voko.aleksey@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
